@@ -13,4 +13,4 @@ Réaliser un jeu de tir spacial à la [Space Shooter](https://apps.apple.com/fr/
 C'est un jeu où on contrôle un vaisseau spatial dans l'espace et dont le but est de détruire tous les vaisseaux extraterrestres sans perdre toutes ses vies.
 
 **Comment jouer ? :**  
-Voir le fichier `how_to_play.pdf`
+Voir le fichier [how_to_play.pdf](https://github.com/syltran/lost-in-space/blob/master/how_to_play.pdf)
