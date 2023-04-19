@@ -5,12 +5,10 @@
 **Date :** 2021 (L1, semestre 2)
 
 **Objectif :**  
-Réaliser un jeu de tir spacial à la [Space Shooter](https://apps.apple.com/fr/app/galaxy-attack-space-shooter/id1225548580) mais en version simplifiée.
-
-**Langages utilisés :** HTML, Javascript
+Réaliser en Javascript un jeu d'arcade jouable sur un navigateur web qui conceptuellement est similaire à un jeu à la **Space Shooter**.
 
 **Principe du jeu :**  
-C'est un jeu où on contrôle un vaisseau spatial dans l'espace et dont le but est de détruire tous les vaisseaux extraterrestres sans perdre toutes ses vies.
+C'est un jeu où on contrôle un mini vaisseau spatial dans l'espace et dont le but est de détruire tous les vaisseaux ennemis tout en essayant de survivre.
 
 **Comment jouer ? :**  
 Voir le fichier [how_to_play.pdf](https://github.com/syltran/lost-in-space/blob/master/how_to_play.pdf)
